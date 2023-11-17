@@ -11,4 +11,4 @@ The 2048 game was created using the following technologies:
 - JavaScript
 
 ## Preview Link
-[DEMO LINK]
+[DEMO LINK] (https://anvbondar.github.io/game-2048/)
